@@ -9,7 +9,7 @@ GPIO_PinRemapConfig(GPIO_Remap_SWJ_JTAGDisable, ENABLE);
 GPIO_InitStructure.GPIO_Pin = GPIO_Pin_15;
 GPIO_InitStructure.GPIO_Mode = GPIO_Mode_Out_PP;
 GPIO_Init(GPIOA, &GPIO_InitStructure); 
-GPIO_InitStructure.GPIO_Pin = GPIO_Pin_3|GPIO_Pin_4；
+GPIO_InitStructure.GPIO_Pin = GPIO_Pin_3 | GPIO_Pin_4；
 GPIO_Init(GPIOB, &GPIO_InitStructure);
 ```
 
