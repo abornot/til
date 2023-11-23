@@ -1,6 +1,6 @@
-# Today I Writed
+# Today I Learned
 
-We constantly write new things. This is a repo to share those writings.
+We constantly learn new things. This is a repo to share those learnings.
 
 ---
 
