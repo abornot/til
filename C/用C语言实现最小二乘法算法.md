@@ -1,4 +1,4 @@
-# 用C语言实现最小二乘法算法
+# 用 C 语言实现最小二乘法算法
 
 有些嵌入式系统的 IDE 不支持结构体，所以改了一个通俗易懂版本。
 
@@ -65,7 +65,7 @@ int main()
     push(data_x[i], data_y[i]);
   }
   /* 计算x=10时y值 */
-  printf("data_y[10]=%f\n", calc(10));
+  printf("data_y[10] = %f\n", calc(10));
   return 0;
 }
 ```
