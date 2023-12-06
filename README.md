@@ -8,6 +8,7 @@ We constantly learn new things. This is a repo to share those learnings.
 
 * [MCU](#MCU)
 * [Git](#Git)
+* [VSCode](#vscode)
 
 ---
 
@@ -20,3 +21,8 @@ We constantly learn new things. This is a repo to share those learnings.
 ### Git
 
 - [Git 常用命令](Git/Git常用命令.md)
+
+
+### VSCode
+
+- [关闭 VS Code 的 Preview 功能](vscode/关闭vscode的Preview功能.md)
