@@ -9,6 +9,7 @@ We constantly learn new things. This is a repo to share those learnings.
 * [MCU](#MCU)
 * [Git](#Git)
 * [VSCode](#vscode)
+* [Knowledge](#Knowledge)
 
 ---
 
@@ -26,3 +27,9 @@ We constantly learn new things. This is a repo to share those learnings.
 ### VSCode
 
 - [关闭 VS Code 的 Preview 功能](vscode/关闭vscode的Preview功能.md)
+
+### Knowledge
+
+- [空调四通阀工作原理](Knowledge/空调四通阀工作原理.md)
+
+
