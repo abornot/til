@@ -11,6 +11,7 @@ We constantly learn new things. This is a repo to share those learnings.
 * [VSCode](#vscode)
 * [Knowledge](#Knowledge)
 * [Firefox](#Firefox)
+* [Windows](#Windows)
 
 ---
 
@@ -40,3 +41,7 @@ We constantly learn new things. This is a repo to share those learnings.
 ### Firefox
 
 - [在 Firefox 上隐藏「列出所有标签页」按钮](Firefox/Firefox隐藏列出所有标签页.md)
+
+### Windows
+
+- [Windows 11 全新开机设置流程](Windows/Windows新电脑设置流程.md)
