@@ -10,6 +10,7 @@ We constantly learn new things. This is a repo to share those learnings.
 * [Git](#Git)
 * [VSCode](#vscode)
 * [Knowledge](#Knowledge)
+* [Firefox](#Firefox)
 
 ---
 
@@ -36,3 +37,6 @@ We constantly learn new things. This is a repo to share those learnings.
 - [空调四通阀工作原理](Knowledge/空调四通阀工作原理.md)
 - [网易企业邮箱查看 POP、SMTP、IMAP 端口](Knowledge/网易企业邮箱查看协议端口.md)
 
+### Firefox
+
+- [在 Firefox 上隐藏「列出所有标签页」按钮](Firefox/Firefox隐藏列出所有标签页.md)
