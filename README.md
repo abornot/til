@@ -23,6 +23,7 @@ We constantly learn new things. This is a repo to share those learnings.
 - [不复位MCU直接调试运行程序，让bug闻风丧胆~ ](MCU/不复位MCU直接调试运行程序.md)
 - [STM32F4 的 DMA 需要清除标志位才可以再次传输，而 STM32F1 却不需要](MCU/STM32之DMA.md)
 - [STM32 的 FLASH 容量问题](MCU/STM32之FLASH.md)
+- [CS+ V4.08 版本的两个坑](MCU/CS+版本选择.md)
 
 ### Git
 
